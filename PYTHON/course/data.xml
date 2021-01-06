@@ -1,0 +1,10 @@
+<data>
+    <user id="1">
+        <fname>Krzysiek</fname>
+        <lname>Malinowski</lname>
+    </user>
+        <user id="2">
+        <fname>Alina</fname>
+        <lname>Moroz</lname>
+    </user>
+<user id="3"><fname>Kolejne</fname><lname>Nazwisko</lname></user></data>
