@@ -1,5 +1,5 @@
 # ad1
-#rozw w ćWiczeniach
+#rozw w ćwiczeniach
 
 
 # ad2
