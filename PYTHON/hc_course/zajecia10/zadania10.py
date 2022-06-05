@@ -127,4 +127,4 @@ scr.onkey(raise_or_drop, "0")
 scr.listen()
 turtle.mainloop()
 
-# dkoknczyc
+# dokonczyc
